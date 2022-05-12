@@ -185,7 +185,7 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
 ## Data-centric AI enthusiasts?<a name="data-centric AI"></a>
-Data-centric AI also known as software 2.0 it’s becoming the new way to build and deploy AI.
+Data-centric AI also known as [software 2.0](https://dl.acm.org/doi/abs/10.1145/3219819.3219937) it’s becoming the new way to build and deploy AI.
 Check this out to learn more:
 * [Data-centric AI by the Stanford AI lab](https://github.com/HazyResearch/data-centric-ai).
 * [Data-centric AI](https://snorkel.ai/data-centric-ai/): a primer with Snorkel AI.
