@@ -184,6 +184,13 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
+## Data-centric AI enthusiasts?<a name="data-centric AI"></a>
+Data-centric AI also known as software 2.0 it’s becoming the new way to build and deploy AI.
+Check this out to learn more:
+• [Data-centric AI by the Stanford AI lab](https://github.com/HazyResearch/data-centric-ai).
+• [Data-centric AI](https://snorkel.ai/data-centric-ai/): a primer with Snorkel AI.
+• [Principles of data-centric AI](https://snorkel.ai/principles-of-data-centric-ai-development/) by Alex Ratner.
+• [Tips for a data-centric AI approach](https://snorkel.ai/tips-for-data-centric-ai-approach/) with Andrew Ng
 
 ## NLP Enthusiast? Check this out!<a name="nlp"></a>
 I had a lot of requests about people wanting to focus on NLP or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
